@@ -1,0 +1,15 @@
+using UnityEngine;
+
+public class GridObject : MonoBehaviour
+{
+    [Header("Grid Position")]
+    public Vector2Int gridPosition;
+
+    /// <summary>
+    /// ç¿ïWÇê›íË
+    /// </summary>
+    public void SetGridPosition(int x, int y)
+    {
+        gridPosition = new Vector2Int(x, y);
+    }
+}
