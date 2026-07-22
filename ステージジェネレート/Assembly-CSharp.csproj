@@ -77,13 +77,11 @@
     <Compile Include="Assets\FlexibleGlassDestructor\Script\IndividualFragment.cs" />
     <Compile Include="Assets\Buffmanager.cs" />
     <Compile Include="Assets\Scripts\StageGenerator.cs" />
-    <Compile Include="Assets\Dash.cs" />
     <Compile Include="Assets\SciFi Warehouse Kit\Demo\Scripts\PushPhysics.cs" />
     <Compile Include="Assets\FlexibleGlassDestructor\Script\DemoSceneManager.cs" />
     <Compile Include="Assets\SciFi Warehouse Kit\Demo\Scripts\LightFlicker.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\CanvasInputs\UICanvasControllerInput.cs" />
     <Compile Include="Assets\SciFi Warehouse Kit\Demo\Scripts\PlayerMovement.cs" />
-    <Compile Include="Assets\test_movement.cs" />
     <Compile Include="Assets\BuffPickup.cs" />
     <Compile Include="Assets\DestructibleWall.cs" />
     <Compile Include="Assets\rotate_wall.cs" />
