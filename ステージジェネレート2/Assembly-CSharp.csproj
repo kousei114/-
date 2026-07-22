@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{2328C00A-0205-2A0C-A10E-0C792EB2F3FE}</ProjectGuid>
+    <ProjectGuid>{D6F476CD-4004-3425-F724-E432A0D5A108}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\GridObject.cs" />
     <Compile Include="Assets\FlexibleGlassDestructor\Script\FlexibleGlass.cs" />
     <Compile Include="Assets\SciFi Warehouse Kit\Demo\Scripts\PlayRandomSound.cs" />
+    <Compile Include="Assets\Scripts\Goal.cs" />
     <Compile Include="Assets\Scripts\ColorDatabase.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Sci Fi Modular Pack\Scripts\CameraController.cs" />

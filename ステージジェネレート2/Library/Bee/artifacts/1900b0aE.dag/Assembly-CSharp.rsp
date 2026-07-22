@@ -364,6 +364,7 @@
 "Assets/SciFi Warehouse Kit/Demo/Scripts/PushPhysics.cs"
 "Assets/Scripts/CameraFollow.cs"
 "Assets/Scripts/ColorDatabase.cs"
+"Assets/Scripts/Goal.cs"
 "Assets/Scripts/GridObject.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/StageGenerator.cs"
