@@ -66,6 +66,7 @@
     <Compile Include="Assets\FlexibleGlassDestructor\Script\FlexibleGlass.cs" />
     <Compile Include="Assets\SciFi Warehouse Kit\Demo\Scripts\PlayRandomSound.cs" />
     <Compile Include="Assets\Scripts\Goal.cs" />
+    <Compile Include="Assets\Scripts\TeleportDoor.cs" />
     <Compile Include="Assets\Scripts\ColorDatabase.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Sci Fi Modular Pack\Scripts\CameraController.cs" />

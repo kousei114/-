@@ -368,6 +368,7 @@
 "Assets/Scripts/GridObject.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/StageGenerator.cs"
+"Assets/Scripts/TeleportDoor.cs"
 -langversion:9.0
 
 /deterministic
